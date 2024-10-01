@@ -1,0 +1,10 @@
+pillow
+pytesseract
+numpy
+requests
+opencv-python
+easyocr
+gspread
+oauth2client
+torch
+torchvision
