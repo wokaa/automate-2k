@@ -67,10 +67,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Download the ZIP**
 
-   Open your web browser and go to the URL:
-   ```
-  https://github.com/wokaa/automate-2k/archive/refs/heads/main.zip
-   ```
+   Open your web browser and go to the URL: https://github.com/wokaa/automate-2k/archive/refs/heads/main.zip
 
 2. **Extract the ZIP File**
 
